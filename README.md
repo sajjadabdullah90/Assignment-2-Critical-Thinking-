@@ -48,4 +48,4 @@ g++ main.cpp -o object_identifier `pkg-config --cflags --libs opencv4`
 ```
 ### Run:
 ```
-./object_identifier
+./object_identifier.exe
