@@ -15,9 +15,9 @@ The dataset consists of student-captured images organized in three folders:
 ```
 dataset/
 │
-├── black/ # 10–20 black plastic images
-├── transparent/ # 10–20 transparent plastic images
-└── colorful/ # 10–20 colorful plastic images
+├── black/ # 10 black plastic images
+├── transparent/ # 10 transparent plastic images
+└── colorful/ # 10 colorful plastic images
 ```
 
 ---
