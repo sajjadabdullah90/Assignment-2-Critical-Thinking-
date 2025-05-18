@@ -12,12 +12,13 @@ This project is developed for **Kursi**, a plastic recycling company. It classif
 
 ## 📁 Dataset
 The dataset consists of student-captured images organized in three folders:
+```
 dataset/
 │
 ├── black/ # 10–20 black plastic images
 ├── transparent/ # 10–20 transparent plastic images
 └── colorful/ # 10–20 colorful plastic images
-
+```
 
 ---
 
@@ -44,6 +45,7 @@ dataset/
 ### 🧪 Compile:
 ```bash
 g++ main.cpp -o object_identifier `pkg-config --cflags --libs opencv4`
-
+```
 ### Run:
+```
 ./object_identifier
